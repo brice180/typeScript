@@ -1,4 +1,5 @@
 var cantidad = 10;
+//debugger
 if (cantidad > 25) {
     console.log("Descuendo mayor");
 }
